@@ -1,0 +1,5 @@
+
+# Agent files
+.github/docs/
+.github/copilot-instructions.*
+.claude/
